@@ -1,0 +1,11 @@
+Metadata-Version: 2.2
+Name: ml_project
+Version: 0.1
+Author: Saurabh Singh
+Author-email: ss1477889@gmail.com
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
