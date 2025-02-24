@@ -1,5 +1,10 @@
 pandas
 matplotlib
 numpy
--e .
+logger
+seaborn
+scikit-learn
+xgboost
+catboost
+#-e .
 # this is used to automatic call or triger the setup.py file

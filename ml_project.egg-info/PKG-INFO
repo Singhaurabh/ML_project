@@ -6,6 +6,8 @@ Author-email: ss1477889@gmail.com
 Requires-Dist: pandas
 Requires-Dist: matplotlib
 Requires-Dist: numpy
+Requires-Dist: src
+Requires-Dist: logger
 Dynamic: author
 Dynamic: author-email
 Dynamic: requires-dist
